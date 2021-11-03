@@ -16,9 +16,6 @@ itsdangerous
 Jinja2
 joblib
 MarkupSafe
-mkl-fft
-mkl-random
-mkl-service
 numexpr
 numpy
 pandas

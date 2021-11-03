@@ -16,9 +16,9 @@ itsdangerous
 Jinja2
 joblib
 MarkupSafe
-mkl-fft==1.3.1
+mkl-fft
 mkl-random
-mkl-service==2.4.0
+mkl-service
 numexpr
 numpy
 pandas
@@ -34,7 +34,7 @@ six
 threadpoolctl
 tldextract==3.1.2
 urllib3==1.26.7
-Werkzeug 
+Werkzeug
 wincertstore==0.2
 zope.event==4.5.0
 zope.interface==5.4.0

@@ -12,6 +12,9 @@ CORS(app)
 #######################################################
 ##################''' Controllers '''##################
 #######################################################
+@app.route("/")
+def test():
+    return {"members":["Member","Hello Sandaruwan"]}
 
 @app.route("/predict",methods=["GET","POST"])
 def predict():
